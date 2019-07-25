@@ -1,0 +1,1 @@
+React Native is a way to use React to create apps that can access a cell phones native features. It uses a React like syntax and has easy tools to develop for Apple and Android devices.
